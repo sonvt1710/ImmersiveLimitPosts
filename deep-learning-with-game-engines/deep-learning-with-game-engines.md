@@ -1,5 +1,7 @@
 # Deep Learning with Game Engines: A Self-Driven Course
 ![Deep Learning with Game Engines: A Self-Driven Course](images/title-image.jpg)
+*Last updated: Dec 1, 2018*
+
 # My Inspiration
 I kicked off this year with Udacity's Deep Learning Nanodegree and got a fantastic, comprehensive introduction to deep learning. While I was taking the class, I discovered Daniel Bourke's [Self-Created AI Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e) which details the courses he's taking on his path to becoming a deep learning developer, one of which was the Deep Learning Nanodegree. I thought the idea to share his journey was brilliant. It holds him accountable and provides inspiration for others.
 
@@ -8,12 +10,12 @@ Rather than take the same path as him, I've decided to create my own course that
 This post will be a work in progress toward understanding how 3d tools like Unity, Unreal Engine, and Blender can be used to train deep neural networks. I came into this course with a unique combo of skills, so I'll offer some suggestions for anyone who wants to follow along but doesn't have the same foundation.
 
 # My Goals
-1. Learn high level, cutting edge, practical deep learning skills and use game engine environments to train them
-..* My focus will be on utilizing and tweaking existing deep neural nets rather than inventing new ones. I'm not really interested in the underlying theory and math at this point, so I'm going to leave that to other researchers and hope they continue open-sourcing their work.
+1. Learn high level, cutting edge, practical deep learning skills and use game engine environments to train them  
+    - My focus will be on utilizing and tweaking existing deep neural nets rather than inventing new ones. I'm not really interested in the underlying theory and math at this point, so I'm going to leave that to other researchers and hope they continue open-sourcing their work.
 2. Spend more time on projects than courses
-..* Practice is essential. I've found that projects solidify my knowledge and help me progress more quickly. Once I learn the fundamentals, I don't want to waste any more time taking redundant coursework.
+    - Practice is essential. I've found that projects solidify my knowledge and help me progress more quickly. Once I learn the fundamentals, I don't want to waste any more time taking redundant coursework.
 3. Share and inspire others
-..* I can't express how grateful I am to people who share their knowledge and experiences. By sharing my progress I can pay it forward and build proof of my experience. It's been said that GitHub is the new resume, and I think mine could use more work!
+    - I can't express how grateful I am to people who share their knowledge and experiences. By sharing my progress I can pay it forward and build proof of my experience. It's been said that GitHub is the new resume, and I think mine could use more work!
 
 # Why Game Engines?
 > "Training successful deep-learning algorithms requires computing power, technical talent, and lots of data. But of those three, it is the volume of data that will be the most important going forward." - **Kai-Fu Lee, AI Superpowers: China, Silicon Valley, and the New World Order**
@@ -27,7 +29,7 @@ Autonomous cars are a great example: If a car crashes during training, it costs 
 The CARLA simulator, built on Unreal Engine, is a great example of how a game engine can be used to teach cars to drive. Check out the video:  
 [![CARLA: An Open Urban Driving Simulator](http://img.youtube.com/vi/Hp8Dz-Zek2E/0.jpg)](http://www.youtube.com/watch?v=Hp8Dz-Zek2E "CARLA: An Open Urban Driving Simulator")
 
-In addition to autonomous vehicles, game engines are being used to train robots and drones. Check out this video of Microsoft AirSim, which can simulate drone flight in Unreal Engine:
+In addition to autonomous vehicles, game engines are being used to train robots and drones. Check out this video of Microsoft AirSim, which can simulate drone flight in Unreal Engine:  
 [![AirSim Demo](http://img.youtube.com/vi/-WfTr1-OBGQ/0.jpg)](http://www.youtube.com/watch?v=-WfTr1-OBGQ "AirSim Demo")
 
 I imagine in the near future, we will also see game engine applications in lifelike human simulation (for digital assistants, movies, and video games), [3d reconstructions of real places](https://ai.intel.com/fake-it-till-you-make-it-synthetic-datasets-assisting-machine-learning-in-data-scarce-environments/), augmented reality and mixed reality, intelligent adversaries in video games, and lots of other places.
@@ -54,6 +56,9 @@ This course was incredible. I've not seen another course that surpasses it in de
 
 **[Started]** [freeCodeCamp - Deep Reinforcement Learning Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [Free]  
 This free course looks really cool. You train deep reinforcement learning algorithms to play old-school video games.
+
+[OpenAI - Spinning Up](http://spinningup.openai.com/en/latest/) [Free]  
+This looks like a really deep, comprehensive overview of Reinforcement Learning. It also looks to be a great intro to OpenAI Gym, which is one of the projects I wanted to work on.
 
 ## Game Engines
 **[Completed]** [Udemy - Unreal Engine C++ Developer Course](https://www.udemy.com/unrealcourse/) [$]  
