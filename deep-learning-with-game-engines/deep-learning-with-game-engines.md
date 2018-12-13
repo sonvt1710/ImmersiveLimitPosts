@@ -150,4 +150,10 @@ I probably need to tweet more.
 Do you know of any great communities where people discuss deep learning? Let me know!
 
 # Conclusion
-This self-driven deep learning in game engines course is a work in progress and I hope it's helpful for others who want to go down a similar learning path. If you find any courses that you think I'd like, have other suggestions, or are just excited to follow along, please let me know! Reach out to me on [Twitter](https://twitter.com/aktwelve) or [LinkedIn](https://www.linkedin.com/in/arkelly12).
+This self-driven deep learning in game engines course is a work in progress and I hope it's helpful for others who want to go down a similar learning path. If you find any courses that you think I'd like, have other suggestions, or are just excited to follow along, please let me know! You can reach out to me at [@aktwelve on Twitter](https://twitter.com/aktwelve) or connect with me on [LinkedIn](https://www.linkedin.com/in/arkelly12).
+
+## For future updates
+- **Like** the [Immersive Limit Facebook Page](https://www.facebook.com/ImmersiveLimit/)
+- **Subscribe** to the [Immersive Limit YouTube Channel](https://www.youtube.com/channel/UC1c0mDkk8R5sqhXO0mVJO3Q)
+- **Follow** the [Immersive Limit Twitter](https://twitter.com/immersivelimit)  
+
