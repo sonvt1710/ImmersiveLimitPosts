@@ -1,6 +1,14 @@
 # Deep Learning with Game Engines: A Self-Driven Course
 ![Deep Learning with Game Engines: A Self-Driven Course](images/title-image.jpg)
-*Last updated: Dec 1, 2018*
+*Last updated: Dec 13, 2018*
+
+## Latest Video Update:
+[![Deep Learning with Game Engines | Intro!](http://img.youtube.com/vi/WoP53JJxZNc/0.jpg)](http://www.youtube.com/watch?v=WoP53JJxZNc "Deep Learning with Game Engines | Intro!")  
+![Play on YouTube](../common/images/youtube_indicator_banner.jpg)
+<!-- Uncomment this iframe instead if the interpreter supports YouTube embedding.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WoP53JJxZNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+*Okay, on to the post...*
 
 # My Inspiration
 I kicked off this year with Udacity's Deep Learning Nanodegree and got a fantastic, comprehensive introduction to deep learning. While I was taking the class, I discovered Daniel Bourke's [Self-Created AI Masters Degree](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e) which details the courses he's taking on his path to becoming a deep learning developer, one of which was the Deep Learning Nanodegree. I thought the idea to share his journey was brilliant. It holds him accountable and provides inspiration for others.
@@ -27,10 +35,16 @@ Game engines like Unreal Engine and Unity are amazing tools for creating lifelik
 Autonomous cars are a great example: If a car crashes during training, it costs time, money, and potentially human lives. Even if crashes are avoided by human intervention, it's not possible to practice dangerous situations in a safe way for humans inside or outside of the vehicle. If a car crashes in simulation, it can either start over, or learn to safely pull the car off to the side of the road. It can also practice as many times as it needs to. Not surprisingly, the big players in autonomous vehicles (Tesla, GM, etc.) are hiring game engine developers to build realistic training simulations.
 
 The CARLA simulator, built on Unreal Engine, is a great example of how a game engine can be used to teach cars to drive. Check out the video:  
-[![CARLA: An Open Urban Driving Simulator](http://img.youtube.com/vi/Hp8Dz-Zek2E/0.jpg)](http://www.youtube.com/watch?v=Hp8Dz-Zek2E "CARLA: An Open Urban Driving Simulator")
+[![CARLA: An Open Urban Driving Simulator](http://img.youtube.com/vi/Hp8Dz-Zek2E/0.jpg)](http://www.youtube.com/watch?v=Hp8Dz-Zek2E "CARLA: An Open Urban Driving Simulator")  
+![Play on YouTube](../common/images/youtube_indicator_banner.jpg)
+<!-- Uncomment this iframe instead if the interpreter supports YouTube embedding.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hp8Dz-Zek2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 In addition to autonomous vehicles, game engines are being used to train robots and drones. Check out this video of Microsoft AirSim, which can simulate drone flight in Unreal Engine:  
-[![AirSim Demo](http://img.youtube.com/vi/-WfTr1-OBGQ/0.jpg)](http://www.youtube.com/watch?v=-WfTr1-OBGQ "AirSim Demo")
+[![AirSim Demo](http://img.youtube.com/vi/-WfTr1-OBGQ/0.jpg)](http://www.youtube.com/watch?v=-WfTr1-OBGQ "AirSim Demo")  
+![Play on YouTube](../common/images/youtube_indicator_banner.jpg)
+<!-- Uncomment this iframe instead if the interpreter supports YouTube embedding.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-WfTr1-OBGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 I imagine in the near future, we will also see game engine applications in lifelike human simulation (for digital assistants, movies, and video games), [3d reconstructions of real places](https://ai.intel.com/fake-it-till-you-make-it-synthetic-datasets-assisting-machine-learning-in-data-scarce-environments/), augmented reality and mixed reality, intelligent adversaries in video games, and lots of other places.
 
@@ -111,7 +125,7 @@ As part of my projects, I like to create tutorials for other people to follow in
 I trained a Mask R-CNN on a custom synthetic image dataset of cigarette butts. This didn't use any game engines, but it was a good intro to cutting edge image segmentation neural networks. It's not super practical to run these neural nets alongside game engines right now because of the sheer amount of graphics compute required, but I think we'll see a lot more of it in the coming years. I initially planned on using Blender to generate cigarette butt renders, but ended up using Python instead.
 
 ### **[Started]** Exploring Unity ML Agents
-Unity has released an open source project called [ML Agents](https://github.com/Unity-Technologies/ml-agents), which is a framework for training Machine Learning agents (or characters) to navigate simple 3d worlds with neural networks. I've started playing with it, but I'm still getting the grasp of it. I don't have a specific project in mind yet.
+Unity has released an open source project called [ML Agents](https://github.com/Unity-Technologies/ml-agents), which is a framework for training Machine Learning agents (or characters) to navigate simple 3d worlds with neural networks. I'm currently working on training a pig agent to find truffles with stereo smell. Watching pigs spin and slide around has been pretty funny.
 
 ### Create a 2D Image Dataset with a Game Engine, then Train a CNN
 There are some interesting examples of training image detection neural networks on rendered images. For example, [several research groups have used Grand Theft Auto 5](https://playing-for-benchmarks.org/overview/) to create training images. I'd like to create my own system to do this.
